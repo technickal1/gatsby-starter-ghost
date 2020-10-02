@@ -66,7 +66,8 @@ module.exports = {
        contentApiKey: `26e3e559d712ccd6bcb083917a`,
        version: `v3` // Ghost API version, optional, defaults to "v3".
                      // Pass in "v2" if your Ghost install is not on 3.0 yet!!!
-   },
+   }
+        },
         /**
          *  Utility Plugins
          */
